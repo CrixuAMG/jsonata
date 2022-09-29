@@ -1,5 +1,5 @@
 {
-  "name": "jsonata",
+  "name": "@crixu/jsonata",
   "version": "1.8.6",
   "description": "JSON query and transformation language",
   "module": "jsonata.js",
